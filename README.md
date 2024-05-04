@@ -1,6 +1,44 @@
 
 ## TODO: 
-- build website
+- Nav Bar
+  - buttons
+  - dropdowns
+  - logos
+- Slider
+  - controlls
+  - images
+  - storage stystem
+- Buttons
+  - Photo buttons
+  - Plain buttons
+- Equipment
+    - Poi
+    - Staves
+    - Torches / Wands
+    - Darts / Meteors
+    - Juggling / Hoops
+    - Weapons / whips
+    - Hardware
+    - Wicking
+    - Covers / Apparel
+- Learn
+    - Find Your Fit
+    - Building Props
+    - About Us
+- Cart
+  - Item storage
+  - Item controlls
+  - Tabs
+    - Checkout 
+    - Personal info
+    - Pay
+    - Success screen
+- Account
+  - Profile
+  - Purchase history
+  - Cart
+  - Preferances
+
 
 
 
